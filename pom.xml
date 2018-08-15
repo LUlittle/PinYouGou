@@ -14,6 +14,7 @@
         <module>PinYouGou_Manager_Web</module>
         <module>PinYouGou_SellerGoods_Service</module>
         <module>PinYouGou_SellerGoods_Interface</module>
+        <module>PinYouGou_Shop-Web</module>
     </modules>
     <packaging>pom</packaging>
 
